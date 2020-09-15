@@ -1,2 +1,2 @@
-# Alt-n
+# Altin
 Günlük Altın Kuru
